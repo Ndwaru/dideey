@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on TakaTecha<br>- 🌱 I’m currently learning Node.js <br>- ⚡ Fun fact I see sound 😁</p>
+<p align="left">- 🔭 Dev at TakaTecha<br><br>- ⚡ Fun fact I see sound 😁</p>
 
 ###
 
